@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyButtonStyle" parent="Widget.AppCompat.Button.Borderless">
+        <item name="android:layout_width">118dp</item>
+        <item name="android:layout_height">61dp</item>
+        <item name="android:background">#1694CD</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:padding">10dp</item> <!-- Ajoutez du padding pour le bouton -->
+        <item name="android:stateListAnimator">@null</item> <!-- Désactivez l'effet d'état du bouton -->
+    </style>
+
+
+</resources>

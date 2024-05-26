@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menunot"
+        android:title="@string/notification"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/baseline_message"/>
+    <item
+        android:id="@+id/menumot"
+        android:title="changer mot de passe"
+        app:showAsAction="never"
+         />
+    
+    <item
+        android:id="@+id/menunote"
+        android:title="les notes etudiants"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/menuout"
+        android:title="Deconnexion"
+        app:showAsAction="never"/>
+</menu>

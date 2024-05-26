@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">gestion_notes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile">profile</string>
+    <string name="parametre">parametre</string>
+    <string name="changer_mot_de_passe">changer mot de passe</string>
+    <string name="notification">notification</string>
+    <string name="les_notes_etudiants">les notes etudiants</string>
+    <string name="deconnexion">Deconnexion</string>
+</resources>

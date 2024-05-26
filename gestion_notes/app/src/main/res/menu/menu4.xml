@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menuset"
+        android:title="@string/profile"
+        app:showAsAction="ifRoom"
+
+        android:icon="@drawable/baseline_person_pin_24"/>
+    <item
+        android:id="@+id/menupara"
+        android:title="@string/parametre"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/menumot"
+        android:title="@string/changer_mot_de_passe"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/menuout"
+        android:title="Deconnexion"
+        app:showAsAction="never"/>
+</menu>
